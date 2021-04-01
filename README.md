@@ -1,5 +1,5 @@
 👋&nbsp;&nbsp;Hi, I’m **@theoprovost** ! <br>
-🎓&nbsp;&nbsp;I’m currently at then end of my 1st year **@Epitech**(WebAcademie programm).  <br>
+🎓&nbsp;&nbsp;I’m currently at then end of my 1st year at **Epitech**(WebAcademie programm).  <br>
 👀&nbsp;&nbsp;I’m looking for a **block release training in web development** from september 2021.<br>
 
 >How to reach me :  <br>
