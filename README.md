@@ -3,8 +3,8 @@
 👀&nbsp;&nbsp;I’m looking for a **block release training in web development** from september 2021.<br>
 
 >How to reach me :  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📞&nbsp;&nbsp;+33 07 49 87 03 52  <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩&nbsp;&nbsp;theo.provost@epitech.eu  <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📞&nbsp;&nbsp;<a href="tel:+330749870352">+33 07 49 87 03 52</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩&nbsp;&nbsp;<a href="mail:theo.provost@epitech.eu">theo.provost@gmail.com</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theoprovost" rel="nofollow noreferrer">LinkedIn
   </a> &nbsp;
