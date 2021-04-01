@@ -5,8 +5,9 @@
 >How to reach me :  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📞&nbsp;&nbsp;+33 07 49 87 03 52  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩&nbsp;&nbsp;theo.provost@epitech.eu  <br>
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theoprovost" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">&nbsp;&nbsp;LinkedIn
+  </a> &nbsp;
 
 ### Get to know me more...
 
