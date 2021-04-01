@@ -1,12 +1,12 @@
 👋&nbsp;&nbsp;Hi, I’m **@theoprovost** ! <br>
-🎓&nbsp;&nbsp;I’m currently at then end of my 1st year at **Epitech**(WebAcademie programm).  <br>
+🎓&nbsp;&nbsp;I’m currently at the end of my 1st year at **Epitech**(WebAcademie programm).  <br>
 👀&nbsp;&nbsp;I’m looking for a **block release training in web development** from september 2021.<br>
 
 >How to reach me :  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📞&nbsp;&nbsp;+33 07 49 87 03 52  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩&nbsp;&nbsp;theo.provost@epitech.eu  <br>
 
-<br>
+
 
 ### Get to know me more...
 
