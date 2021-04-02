@@ -1,10 +1,10 @@
 👋&nbsp;&nbsp;Hi, I’m **@theoprovost** ! <br>
-🎓&nbsp;&nbsp;I’m currently at the end of my 1st year at **Epitech**(WebAcademie programm).  <br>
-👀&nbsp;&nbsp;I’m looking for a **block release training in web development** from september 2021.<br>
+🎓&nbsp;&nbsp;I’m currently at the end of my 1st year at **Epitech** (WebAcademie programm).  <br>
+👀&nbsp;&nbsp;I’m looking for an **alternating training in web development** from september 2021.<br>
 
 >How to reach me :  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📞&nbsp;&nbsp;<a href="tel:+330749870352">+33 07 49 87 03 52</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩&nbsp;&nbsp;<a href="mail:theo.provost@epitech.eu">theo.provost@gmail.com</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩&nbsp;&nbsp;<a href="mail:theo.provost@epitech.eu">theo.provost@epitech.eu</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theoprovost" rel="nofollow noreferrer">LinkedIn
   </a> &nbsp;
@@ -30,7 +30,7 @@
 
             "seeking": {
                 "position": [
-                    "Junior Web developer",
+                    "Junior web developer",
                     "Developer backend",
                     "Developer frontend"
                 ],
@@ -56,13 +56,14 @@
                 "Style": ["CSS/SCSS", "SaSS", "Tailwind", "Boostrap"],
                 "Web development": "HTML",
                 "Responsive design": true,
-                "SEO": true
+                "SEO": true,
+                "Accessibility": true
             },
 
             "tools": {
                 "Versioning": ["Git", "Sqitch"],
                 "Method": ["Agile", "SCRUM"],
-                "Organisation": ["Kanban","Jira"],
+                "Organisation": ["Kanban", "Jira"],
                 "Design": {
                     "Adobe Suite": {
                         "XD": true,
