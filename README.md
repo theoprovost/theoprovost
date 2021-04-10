@@ -47,7 +47,7 @@
                 "Database": ["SQL", "NoSQL", "PostgreSQL", "MySQL", "Redis", "MongoDB"],
                 "Data": ["JSON", "XML"],
                 "Architecture": ["MVC", "MCD/MLD"],
-                "AdminSys": ["AWS", "Azure", "Linux/Unix", "Nginx", "Docker"],
+                "AdminSys/Deployment": ["AWS", "Azure", "Linux/Unix", "Nginx", "Docker"],
                 "RestfulAPI": true
             },
 
