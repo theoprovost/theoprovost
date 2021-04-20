@@ -24,7 +24,7 @@
             ],
 
             "currently": {
-                "position": "1st year student at Epitech",
+                "position": "End of 1st year student at Epitech",
                 "city": "Lyon, 6ème"
             },
 
@@ -52,7 +52,7 @@
             },
 
             "frontend": {
-                "JS": [ "Vanilla ES6+", "Vue.js", "React"],
+                "JS": [ "Vanilla ES6+", "Vue.js"],
                 "Style": ["CSS/SCSS", "SaSS", "Tailwind", "Boostrap"],
                 "Web development": "HTML",
                 "Responsive design": true,
@@ -69,7 +69,8 @@
                         "XD": true,
                         "InDesign": true,
                         "Illustrator": true
-                    }
+                    },
+                    "Figma" : true
                 },
                 "Languages": {
                     "French": "C2",
