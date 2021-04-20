@@ -9,6 +9,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theoprovost" rel="nofollow noreferrer">LinkedIn
   </a> &nbsp;
+  
+🌐&nbsp;&nbsp;<a href="https://theoprovost.fr">https://theoprovost.fr</a> <br>
 
 ### Get to know me more...
 
