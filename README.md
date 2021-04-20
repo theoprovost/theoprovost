@@ -5,13 +5,12 @@
 >How to reach me :  <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📞&nbsp;&nbsp;<a href="tel:+330749870352">+33 07 49 87 03 52</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📩&nbsp;&nbsp;<a href="mail:theo.provost@epitech.eu">theo.provost@epitech.eu</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐&nbsp;&nbsp;<a href="tel:+330749870352">+33 07 49 87 03 52</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin">&nbsp;&nbsp;<a href="https://www.linkedin.com/in/theoprovost" rel="nofollow noreferrer">LinkedIn
   </a> &nbsp;
-  
+  <br>
 🌐&nbsp;&nbsp;<a href="https://theoprovost.fr">https://theoprovost.fr</a> <br>
-
+<br>
 ### Get to know me more...
 
 ```json
